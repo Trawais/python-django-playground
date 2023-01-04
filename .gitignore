@@ -1,0 +1,13 @@
+# venv environment
+django-env
+
+# Django project
+*.log
+*.pot
+*.pyc
+__pycache__
+db.sqlite3
+media
+
+# MacOS files
+**/.DS_Store
